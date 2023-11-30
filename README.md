@@ -31,3 +31,10 @@ Por exemplo,a pose Adho Mukha Vrksasana é identificada da seguinte maneira:
 ![Output no terminal](https://github.com/amandaarruda/Shanti/assets/66084295/d10bd85f-e908-4e57-902e-c558e66ad951)
 
 ### Você também pode treinar o dataset com as instruções disponíveis no [jupiter notebook](https://drive.google.com/file/d/1mI7jneSFV8xU2HAkgrr6YAzcYnlyM8WJ/view?usp=sharing)
+
+## Sobre o nome
+"Shanti" é uma palavra que tem raízes profundas em tradições espirituais, particularmente no mantra "Om Shanti Shanti Shanti". "Om" é considerado um som primordial, e "Shanti" significa paz. O mantra é repetido três vezes para invocar a paz física, mental e espiritual.
+
+Ao escolher este nome, há uma intenção clara de proporcionar não apenas atividades físicas, mas uma experiência que promove a paz e o equilíbrio em todos os aspectos da vida. Assim como o mantra, o Shanti aspira a ser um guia para a paz interior, oferecendo não apenas exercícios físicos, mas também um caminho para o bem-estar mental e emocional.
+
+Essa conexão com a espiritualidade destaca a abordagem holística do aplicativo, reforçando a ideia de que a prática regular não é apenas sobre condicionamento físico, mas uma jornada para a harmonia total. Este aspecto adiciona uma dimensão mais profunda à proposta do Shanti, posicionando-o como mais do que apenas um aplicativo de fitness, mas um companheiro para o crescimento integral e a busca pela paz interior.
