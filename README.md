@@ -28,12 +28,6 @@ A leitura de uma pose pode ser verificada através das junções dos labels.
 
 Por exemplo,a pose Adho Mukha Vrksasana é identificada da seguinte maneira:
 
-![WhatsApp Image 2023-11-27 at 13 32 15](https://github.com/amandaarruda/Shanti/assets/66084295/2bacdb15-dec0-4447-ad8a-a28b79e7ac98)
-
-*Representação no terminal e leitura*
-
-![Output](https://github.com/amandaarruda/Shanti/assets/66084295/d10bd85f-e908-4e57-902e-c558e66ad951)
-![Representação](https://github.com/amandaarruda/Shanti/assets/66084295/4ec3f92f-e284-490a-98c8-c397cf186c3a)
-
+![Output no terminal](https://github.com/amandaarruda/Shanti/assets/66084295/d10bd85f-e908-4e57-902e-c558e66ad951)
 
 ### Você também pode treinar o dataset com as instruções disponíveis no jupiter notebook
