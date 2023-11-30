@@ -4,4 +4,4 @@ from ultralytics import YOLO
 model = YOLO('best.pt')
 
 # Rodando a inferência
-results = model(source="flow.mp4", show=True, conf=0.6, save=True)
+results = model(source="flow.mp4", show=True, conf=0.6, save=True) #Se você quiser testsr com a webcam, troque o "flow.mp4" para 0
