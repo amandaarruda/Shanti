@@ -30,4 +30,4 @@ Por exemplo,a pose Adho Mukha Vrksasana é identificada da seguinte maneira:
 
 ![Output no terminal](https://github.com/amandaarruda/Shanti/assets/66084295/d10bd85f-e908-4e57-902e-c558e66ad951)
 
-### Você também pode treinar o dataset com as instruções disponíveis no jupiter notebook
+### Você também pode treinar o dataset com as instruções disponíveis no [jupiter notebook](https://drive.google.com/file/d/1mI7jneSFV8xU2HAkgrr6YAzcYnlyM8WJ/view?usp=sharing)
