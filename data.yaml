@@ -1,0 +1,68 @@
+names:
+- Adho
+- Alanasana
+- Anjaneyasana
+- Ardha
+- Ashta
+- Baddha
+- Bakasana
+- Balasana
+- Bandha
+- Bhujangasana
+- Bitilasana
+- Camatkarasana
+- Chandrasana
+- Dhanurasana
+- Eka
+- Garudasana
+- Halasana
+- Hanumanasana
+- Hasta
+- Kapotasana
+- Konasana
+- Malasana
+- Marjaryasana
+- Matsyendrasana
+- Mayurasana
+- Mukha
+- Navasana
+- One
+- Pada
+- Padangusthasana
+- Padmasana
+- Parsva
+- Parsvakonasana
+- Parsvottanasana
+- Paschimottanasana
+- Phalakasana
+- Pincha
+- Rajakapotasana
+- Salamba
+- Sarvangasana
+- Setu
+- Sivasana
+- Supta
+- Svanasana
+- Svsnssana
+- Three
+- Trikonasana
+- Two
+- Upavistha
+- Urdhva
+- Ustrasana
+- Utkatasana
+- Uttanasana
+- Utthita
+- Vasisthasana
+- Virabhadrasana
+- Vrksasana
+nc: 57
+roboflow:
+  license: Public Domain
+  project: shanti
+  url: https://universe.roboflow.com/amanda-arruda-2uirk/shanti/dataset/1
+  version: 1
+  workspace: amanda-arruda-2uirk
+test: /content/SHANTI-1/test
+train: /content/SHANTI-1/train
+val: /content/SHANTI-1/valid
