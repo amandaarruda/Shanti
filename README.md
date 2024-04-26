@@ -2,7 +2,7 @@
 
 
 # Como testar o MVP da visão computacional do Shanti
-Obs: As instruções abaixo são direcionadas para computadores com um sistema operacional Linux
+Obs: As instruções abaixo são direcionadas para a versão BETA em computadores com um sistema operacional Linux. A versão mobile atual não será disponibilizada no momento.
 
 ### Pré-requisitos
 - Python >= 3.7.0
