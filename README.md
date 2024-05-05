@@ -1,7 +1,7 @@
 # Em abril de 2024, este projeto foi apresentado no Massachusetts Institute of Technology (MIT), durante a 10° edição da Brazil Conference.
 ![Apresentação](https://github.com/amandaarruda/Shanti/assets/66084295/f7592802-9b7b-4f07-bc70-753d63972eb8)
 
-Você pode encontrar a apresentação em: https://lnkd.in/dYRPnq6h
+Você pode encontrar a apresentação em: [Live da Brazil Conference](https://www.youtube.com/watch?v=aJ1d7jdwPyk&t=6509s)
 ---
 
 ![O Shanti é um aplicativo inovador que utiliza inteligência artificial para proporcionar uma abordagem holística à saúde, oferecendo orientação personalizada em exercícios físicos, concentração e t (1)](https://github.com/amandaarruda/Shanti/assets/66084295/f8625bf8-4c68-4ece-ad92-55730da6a1bd)
