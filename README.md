@@ -1,4 +1,4 @@
-# Em Abril de 2024, este projeto foi apresentado no Massachusetts Institute of Technology (MIT), durante a 10° edição da Brazil Conference.
+# Em abril de 2024, este projeto foi apresentado no Massachusetts Institute of Technology (MIT), durante a 10° edição da Brazil Conference.
 ![Apresentação](https://github.com/amandaarruda/Shanti/assets/66084295/f7592802-9b7b-4f07-bc70-753d63972eb8)
 
 Você pode encontrar a apresentação em: https://lnkd.in/dYRPnq6h
