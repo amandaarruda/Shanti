@@ -1,3 +1,9 @@
+# Em Abril de 2024, este projeto foi apresentado no Massachusetts Institute of Technology (MIT), durante a 10° edição da Brazil Conference.
+![Apresentação](https://github.com/amandaarruda/Shanti/assets/66084295/f7592802-9b7b-4f07-bc70-753d63972eb8)
+
+Você pode encontrar a apresentação em: https://lnkd.in/dYRPnq6h
+---
+
 ![O Shanti é um aplicativo inovador que utiliza inteligência artificial para proporcionar uma abordagem holística à saúde, oferecendo orientação personalizada em exercícios físicos, concentração e t (1)](https://github.com/amandaarruda/Shanti/assets/66084295/f8625bf8-4c68-4ece-ad92-55730da6a1bd)
 
 
@@ -23,12 +29,6 @@ pip install ultralytics
 ### Exemplo do funcionamento
 
 https://github.com/amandaarruda/Shanti/assets/66084295/9e7515b4-f896-4cfb-92d4-d694636ad291
-
-A leitura de uma pose pode ser verificada através das junções dos labels. 
-
-Por exemplo,a pose Adho Mukha Vrksasana é identificada da seguinte maneira:
-
-![Output no terminal](https://github.com/amandaarruda/Shanti/assets/66084295/d10bd85f-e908-4e57-902e-c558e66ad951)
 
 ### Você também pode treinar o dataset com as instruções disponíveis no [jupiter notebook](https://drive.google.com/file/d/1mI7jneSFV8xU2HAkgrr6YAzcYnlyM8WJ/view?usp=sharing)
 
