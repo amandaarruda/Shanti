@@ -1,6 +1,8 @@
 # Em abril de 2024, este projeto foi apresentado no Massachusetts Institute of Technology (MIT), durante a 10° edição da Brazil Conference.
 ![Apresentação](https://github.com/amandaarruda/Shanti/assets/66084295/f7592802-9b7b-4f07-bc70-753d63972eb8)
 
+Notícias sobre: [UOL Economia](https://economia.uol.com.br/noticias/redacao/2024/04/05/projetos-inteligencia-artificial-brazil-conference-ai4good.htm), [Centro de Informática - UFPE](https://portal.cin.ufpe.br/2024/04/03/aluna-do-cin-ufpe-apresentara-a-plataforma-shanti-na-brazil-conference-2024/)
+
 Você pode encontrar a apresentação em: [Live da Brazil Conference](https://www.youtube.com/watch?v=aJ1d7jdwPyk&t=6509s)
 ---
 
